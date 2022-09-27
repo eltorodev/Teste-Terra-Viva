@@ -69,3 +69,15 @@ Referências:
 Utilizei para pegar exemplos de flores
 
 https://www.terraviva.agr.br/
+
+## Exemplo de JSON - Create e Update
+
+```JSON
+{
+  "name": "Mimo",
+	"description": "Orquídea Frozen Terra Viva é tingida por uma tinta especial que faz com que os botões da haste abram coloridas! Porém, na próxima florada, sua orquídea não irá florir azul novamente. Essa coloração permanece somente na florada em que a planta foi tingida. Uma nova haste ou uma nova florada irá ser de flores brancas. Há cinco fatores que influenciam no crescimento e desenvolvimento das orquídeas: água, luminosidade (artificial ou natural), temperatura, ventilação e adubação. Qualquer alteração de um desses fatores modifica a correlação entre eles e altera um outro fator ou até mais de um. Portanto, requerem cuidado especial, para melhores resultados.",
+  "origin": "Indonésia, Filipinas.",
+  "availability": "Ano todo.",
+  "basic_care": "A Phalaenopsis não deve receber sol direto e deve ficar em ambiente bem iluminado e ventilado. É necessário irrigar duas vezes por semana com 200 ml de água na raiz e não deixar água acumulada no pratinho, para não apodrecer a raiz.  A adubação deve ser feita uma vez ao mês utilizando N:P:K=20:20:20 ou 10:10:10, seguindo as orientações do fabricante. A Phalaenopsis pode ser cultivada em vaso ou amarrada em árvores. Após a queda de todas as flores, cortar as hastes 3 a 5 cm da sua base."
+}
+```
