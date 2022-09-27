@@ -2,7 +2,7 @@
 
 API RESTful para cadastro de flores.
 
-A API contém um _controller_ chamado `flowers` com os métodos: `get`, `post`, `put`, `delete`.
+A API contém um _controller_ chamado `flowers` com os métodos: `GET`, `POST`, `PUT`, `DELETE`.
 
 ## Rotas
 
@@ -30,7 +30,7 @@ A API contém um _controller_ chamado `flowers` com os métodos: `get`, `post`, 
    - Exclui uma flor cadastrada no banco de dados pelo **ID**
      - Retorno: `404` ou `200`
 
-Obs: Em caso de erro ambas rotas retornaram o código `500`.
+Obs: Em caso de erro ambas rotas retornarão o código `500`.
 
 # Tecnologias utilizadas (Pacotes NPM)
 
