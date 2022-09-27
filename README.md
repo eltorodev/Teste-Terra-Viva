@@ -75,9 +75,10 @@ https://www.terraviva.agr.br/
 ```JSON
 {
   "name": "Mimo",
-	"description": "Orquídea Frozen Terra Viva é tingida por uma tinta especial que faz com que os botões da haste abram coloridas! Porém, na próxima florada, sua orquídea não irá florir azul novamente. Essa coloração permanece somente na florada em que a planta foi tingida. Uma nova haste ou uma nova florada irá ser de flores brancas. Há cinco fatores que influenciam no crescimento e desenvolvimento das orquídeas: água, luminosidade (artificial ou natural), temperatura, ventilação e adubação. Qualquer alteração de um desses fatores modifica a correlação entre eles e altera um outro fator ou até mais de um. Portanto, requerem cuidado especial, para melhores resultados.",
-  "origin": "Indonésia, Filipinas.",
+	"description": "Deixe a imaginação fluir e leve a natureza para os lugares mais inusitados. A Orquídea Mimo Terra Viva é uma maneira divertida e diferente de levar a natureza para dentro de qualquer ambiente, onde “arranjos florais” assumem um significado totalmente novo. as Orquídeas Mimo são plantas do tamanho mais compacto em uma diversidade de cores para todos os gostos, que acompanham um vaso magnético, de cores contemporâneas (verde, rosa ou azul), os quais podem ser grudadas em qualquer superfície metálica. Uma grande tendência e solução para apartamento e escritórios, que estão cada vez menores ou simplesmente para quem estiver procurando uma decoração criativa ou um presente original e inusitado.",
+	"origin": "Indonésia, Filipinas.",
   "availability": "Ano todo.",
-  "basic_care": "A Phalaenopsis não deve receber sol direto e deve ficar em ambiente bem iluminado e ventilado. É necessário irrigar duas vezes por semana com 200 ml de água na raiz e não deixar água acumulada no pratinho, para não apodrecer a raiz.  A adubação deve ser feita uma vez ao mês utilizando N:P:K=20:20:20 ou 10:10:10, seguindo as orientações do fabricante. A Phalaenopsis pode ser cultivada em vaso ou amarrada em árvores. Após a queda de todas as flores, cortar as hastes 3 a 5 cm da sua base."
+  "basic_care": "A Phalaenopsis não deve receber sol direto e deve ficar em ambiente bem iluminado e ventilado. É necessário irrigar uma vez por semana com um pouco de água na raiz e não deixar água acumulada no vazinho, para não apodrecer a raiz.  A adubação deve ser feita uma vez ao mês utilizando N:P:K=20:20:20 ou 10:10:10, seguindo as orientações do fabricante. A Phalaenopsis pode ser cultivada em vaso ou amarrada em árvores. Após a queda de todas as flores, cortar as hastes 3 a 5 cm da sua base."
 }
+
 ```
