@@ -34,7 +34,6 @@ Obs: Em caso de erro ambas rotas retornaram o código `500`.
 
 # Tecnologias utilizadas (Pacotes NPM)
 
-- bcryptjs
 - cors
 - dotenv
 - express
