@@ -64,7 +64,7 @@ Para rodar em modo DEV:
 Modo Produção:
 `yarn start`
 
-Acesso: http://localhost:300/flowers
+Acesso: http://localhost:3000/flowers
 
 Referências:
 Utilizei para pegar exemplos de flores
